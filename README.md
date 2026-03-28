@@ -48,5 +48,6 @@ Collected data is used exclusively to operate the game (track progress, enforce 
 Your data is retained as long as you have an active account. You may request deletion of your data by contacting The RPGcord Team directly.
 
 ### 5. Contact
-For questions or data deletion requests, contact The RPGcord Team via the official Discord server.
+For questions or data deletion requests, contact The RPGcord Team via the official Discord server: [https://discord.gg/DkJQcbsnrR](https://discord.gg/DkJQcbsnrR)
+Or by contacting the main developer: Giovanni (tag: biobanno, user ID: 179987750009831424)
 
