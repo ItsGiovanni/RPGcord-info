@@ -53,5 +53,5 @@ Or by contacting the main developer: Giovanni (tag: biobanno, user ID: 179987750
 
 ---
 
-The RPGcord bot can be invited through this url: https://discord.com/oauth2/authorize?client_id=1477659272794996767
+The RPGcord bot can be invited through this url: [https://discord.com/oauth2/authorize?client_id=1477659272794996767](https://discord.com/oauth2/authorize?client_id=1477659272794996767&permissions=274878285888&integration_type=0&scope=bot)
 
